@@ -1,0 +1,8 @@
+Daily rows: 731
+Daily columns: 16
+Hourly rows: 17379
+Hourly columns: 17
+Daily total rentals: 3292679
+Hourly total rentals: 3292679
+Daily missing cells: 0
+Hourly missing cells: 0
